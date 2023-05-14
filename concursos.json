@@ -1,0 +1,33 @@
+[
+    {
+        "nome": "TCDF",
+        "salario": 20,
+        "beneficios": 2,
+        "localizacao": 20,
+        "concorrencia": 800,
+        "tempo": 4,
+        "disciplinas": 10,
+        "dificuldade": 10
+
+    },
+    {
+        "nome": "Banco Central",
+        "salario": 20,
+        "beneficios": 2,
+        "localizacao": 20,
+        "concorrencia": 800,
+        "tempo": 6,
+        "disciplinas": 10,
+        "dificuldade": 10
+    },
+    {
+        "nome": "Câmara dos Deputados",
+        "salario": 20,
+        "beneficios": 2,
+        "localizacao": 20,
+        "concorrencia": 800,
+        "tempo": 9,
+        "disciplinas": 8,
+        "dificuldade": 10
+    }
+]
